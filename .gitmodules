@@ -1,0 +1,40 @@
+[submodule "sources/littlefs"]
+	path = sources/littlefs
+	url = https://github.com/littlefs-project/littlefs.git
+	branch = master
+	shallow = true
+[submodule "sources/qpc-examples"]
+	path = sources/qpc-examples
+	url = https://github.com/QuantumLeaps/qpc-examples.git
+	branch = main
+	shallow = true
+[submodule "sources/InfiniTime"]
+	path = sources/InfiniTime
+	url = https://github.com/InfiniTimeOrg/InfiniTime.git
+	branch = main
+	shallow = true
+[submodule "sources/zephyr-example-application"]
+	path = sources/zephyr-example-application
+	url = https://github.com/zephyrproject-rtos/example-application.git
+	branch = main
+	shallow = true
+[submodule "sources/lvgl"]
+	path = sources/lvgl
+	url = https://github.com/lvgl/lvgl.git
+	branch = master
+	shallow = true
+[submodule "sources/FreeRTOS-Kernel"]
+	path = sources/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+	branch = main
+	shallow = true
+[submodule "sources/mcuboot"]
+	path = sources/mcuboot
+	url = https://github.com/mcu-tools/mcuboot.git
+	branch = main
+	shallow = true
+[submodule "sources/lwip"]
+	path = sources/lwip
+	url = https://github.com/lwip-tcpip/lwip.git
+	branch = master
+	shallow = true

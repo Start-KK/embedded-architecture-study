@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "projects": [
+    {
+      "name": "littlefs",
+      "path": "sources/littlefs",
+      "upstream": "https://github.com/littlefs-project/littlefs.git",
+      "branch": "master",
+      "commit": "6cb4e86540eca0d9ba62500a298385c9d863c8be"
+    },
+    {
+      "name": "qpc-examples",
+      "path": "sources/qpc-examples",
+      "upstream": "https://github.com/QuantumLeaps/qpc-examples.git",
+      "branch": "main",
+      "commit": "a5780fbc91d0f5a9d620b70d7eb36c48f82638b5"
+    },
+    {
+      "name": "InfiniTime",
+      "path": "sources/InfiniTime",
+      "upstream": "https://github.com/InfiniTimeOrg/InfiniTime.git",
+      "branch": "main",
+      "commit": "6c119eb52206b580b556b41633dddc1e1b66a8da"
+    },
+    {
+      "name": "zephyr-example-application",
+      "path": "sources/zephyr-example-application",
+      "upstream": "https://github.com/zephyrproject-rtos/example-application.git",
+      "branch": "main",
+      "commit": "38a6d9b276ed434454900130cacc87d058d3ac62"
+    },
+    {
+      "name": "lvgl",
+      "path": "sources/lvgl",
+      "upstream": "https://github.com/lvgl/lvgl.git",
+      "branch": "master",
+      "commit": "9b8b8f8c98701214651a4648b441f5ed8c79611a"
+    },
+    {
+      "name": "FreeRTOS-Kernel",
+      "path": "sources/FreeRTOS-Kernel",
+      "upstream": "https://github.com/FreeRTOS/FreeRTOS-Kernel.git",
+      "branch": "main",
+      "commit": "8be86d4a24fd4091f8f4192018423ab590f408db"
+    },
+    {
+      "name": "mcuboot",
+      "path": "sources/mcuboot",
+      "upstream": "https://github.com/mcu-tools/mcuboot.git",
+      "branch": "main",
+      "commit": "bfbc2eff1ab2f8d290b915036ecdaafdbc620e0f"
+    },
+    {
+      "name": "lwip",
+      "path": "sources/lwip",
+      "upstream": "https://github.com/lwip-tcpip/lwip.git",
+      "branch": "master",
+      "commit": "d08f4773edd0182b7910fc8f046eed82ffcd67c9"
+    }
+  ]
+}

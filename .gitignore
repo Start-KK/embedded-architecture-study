@@ -1,0 +1,9 @@
+# Local build and editor outputs
+build/
+out/
+.vs/
+.idea/
+*.user
+*.swp
+.DS_Store
+Thumbs.db
